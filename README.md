@@ -1,8 +1,6 @@
 # Travel-Scribbles
 Travel Scribbles is a personal platform designed for documenting travel experiences. It allows users to create stories, upload images, apply search filters, and save favorite stories for quick access.
 
-It looks like you’re working on a travel story app with a robust set of features! Here’s a breakdown of your project:
-
 ### **Tech Stack:**
 - **Frontend**: ReactJS and TailwindCSS for a modern, responsive design.
 - **Backend**: NodeJS with ExpressJS to handle API requests and business logic.
