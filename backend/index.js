@@ -19,7 +19,7 @@ mongoose.connect(config.connectionString);
 
 
 const app=express();
-const port=process.env.PORT ||  4000;
+const port=process.env.PORT ||  8001;
 app.use(express.json());
 app.use(cors({origin:"*"}));
 //create account
